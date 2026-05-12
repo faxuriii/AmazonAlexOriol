@@ -1,0 +1,16 @@
+participation.txt
+==================
+Ejercicio realizado individualmente.
+
+Miembro: Alex Ruano
+Contribuciones:
+- Creación completa del proyecto Flutter
+- amazon_theme.dart: colores y constantes globales
+- components/amazon_nav_bar.dart: doble barra de navegación (tarea 1)
+- components/product_card_widget.dart: widget reutilizable de tarjeta de producto (tareas 2 y 4)
+- components/circle_category_widget.dart: widget de círculo con imagen y texto (tarea 3)
+- components/hero_banner_widget.dart: imagen de fondo principal con flechas
+- components/amazon_footer.dart: pie de página completo
+- pages/home_page.dart: página principal con GridView para 8 contenedores y secciones de círculos
+- pages/product_page.dart: página de producto con estructura en Row de 4 elementos (tarea 5)
+- main.dart: lógica de navegación (búsqueda "laptop" → página de producto)
